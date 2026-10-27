@@ -1,0 +1,14 @@
+{
+  "aliases": [
+    {
+      "enabled": false,
+      "item_code": "DEMO-MAT-001",
+      "source_name": "合成源检查单",
+      "normalized_name": "合成源检查单",
+      "target_procedure_name": "合成目标检查单",
+      "note": "Synthetic example only",
+      "version": "demo",
+      "effective_date": ""
+    }
+  ]
+}
